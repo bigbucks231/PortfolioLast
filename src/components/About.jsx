@@ -50,7 +50,7 @@ const About = () => {
       >
         I'm a skilled software developer with experience in
         JavaScript and Darts, and expertise in frameworks like React, Flutter, and
-        Three.js. I'm a quick learner and collaborate closely with clents to
+        Three.js. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
