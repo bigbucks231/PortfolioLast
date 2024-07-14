@@ -41,4 +41,5 @@ const StarsCanvas = () => {
   )
 }
 
-export default StarsCanvas
+
+export default StarsCanvas  
